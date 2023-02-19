@@ -26,10 +26,3 @@ Calculateur de devises basic en React.
 - Rapide : `0.2s`
 - Lente : `1s`
 
-
-## Whaaat ?
-
-- https://fr.reactjs.org/docs/components-and-props.html#composing-components
-- https://fr.reactjs.org/docs/introducing-jsx.html#embedding-expressions-in-jsx
-- https://developer.mozilla.org/fr/docs/Web/CSS/overflow
-- https://developer.mozilla.org/fr/docs/Web/CSS/transition
