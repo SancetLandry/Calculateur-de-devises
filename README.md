@@ -2,18 +2,9 @@
 
 ## Objectif
 
-Réaliser ce projet
+Calculateur de devises basic en React.
 
 ![](resultat.gif)
-
-## Instructions
-
-- Commencer par la structure fondamentale (les blocs principaux)
-- Créer les composants
-- Un peu de style
-- Identifier les données à transmettre
-- Placer des props
-- Dynamiser avec `src/data/currencies.js`
 
 ## Styles
 
